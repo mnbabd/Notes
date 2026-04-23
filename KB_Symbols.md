@@ -1,5 +1,5 @@
-# Symbols
-This is a list of symbols and their names that will find their way to you at some point (as found on a 104 key keyboard)
+# Keyboard Symbols
+This is a list of symbols and names that will find their way to you at some point (as found on a 104 key keyboard)
 
 |Symbol | Name 
 |:-----:| :--- 
